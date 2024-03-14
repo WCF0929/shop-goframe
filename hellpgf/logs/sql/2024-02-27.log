@@ -1,0 +1,23 @@
+2024-02-27 17:19:12.397 [DEBU] {a05f1762afadb7173681d90f41a09a90} [ 10 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-27 17:19:12.400 [DEBU] {a05f1762afadb7173681d90f41a09a90} [  2 ms] [default] [shop] [rows:7  ] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-27 17:19:12.401 [DEBU] {a05f1762afadb7173681d90f41a09a90} [  1 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at`,`deleted_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,20
+2024-02-27 17:19:12.402 [DEBU] {a05f1762afadb7173681d90f41a09a90} [  1 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `rotation_info` WHERE `deleted_at` IS NULL
+2024-02-27 17:19:12.402 [DEBU] {a05f1762afadb7173681d90f41a09a90} [  0 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,20
+2024-02-27 17:24:53.723 [DEBU] {9ccbffdafeadb7176efb493c020bea6c} [  5 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-27 17:24:53.726 [DEBU] {9ccbffdafeadb7176efb493c020bea6c} [  2 ms] [default] [shop] [rows:7  ] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-27 17:24:53.726 [DEBU] {9ccbffdafeadb7176efb493c020bea6c} [  0 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at`,`deleted_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,20
+2024-02-27 17:24:53.727 [DEBU] {9ccbffdafeadb7176efb493c020bea6c} [  0 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `rotation_info` WHERE `deleted_at` IS NULL
+2024-02-27 17:24:53.728 [DEBU] {9ccbffdafeadb7176efb493c020bea6c} [  1 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,20
+2024-02-27 19:21:38.320 [DEBU] {f4601bbd5db4b717a7384d0a98c5e197} [ 11 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `position_info`
+2024-02-27 19:21:38.327 [DEBU] {f4601bbd5db4b717a7384d0a98c5e197} [  6 ms] [default] [shop] [rows:1  ] INSERT INTO `position_info`(`pic_url`,`goods_name`,`link`,`sort`,`goods_id`,`created_at`,`updated_at`) VALUES('http://baidu','测试','http://baidudu',0,4,'2024-02-27 19:21:38','2024-02-27 19:21:38') 
+2024-02-27 19:21:54.297 [DEBU] {3cdeee7561b4b717a8384d0af6d16367} [  3 ms] [default] [shop] [rows:1  ] INSERT INTO `position_info`(`pic_url`,`goods_name`,`link`,`sort`,`goods_id`,`created_at`,`updated_at`) VALUES('http://baidu','测试1','http://baidudu',0,54,'2024-02-27 19:21:54','2024-02-27 19:21:54') 
+2024-02-27 19:23:04.367 [DEBU] {344386c671b4b717aa384d0a35569848} [  1 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-27 19:23:04.370 [DEBU] {344386c671b4b717aa384d0a35569848} [  2 ms] [default] [shop] [rows:23 ] [txid:1] SHOW TABLES
+2024-02-27 19:23:04.371 [DEBU] {344386c671b4b717aa384d0a35569848} [  1 ms] [default] [shop] [rows:1  ] [txid:1] UPDATE `position_info` SET `pic_url`='http://baidu',`goods_name`='测试1',`link`='http://baidudu',`sort`=0,`goods_id`=5,`updated_at`='2024-02-27 19:23:04' WHERE (`id`=4) AND `deleted_at` IS NULL
+2024-02-27 19:23:04.373 [DEBU] {344386c671b4b717aa384d0a35569848} [  2 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-27 21:25:45.196 [DEBU] {2040859923bbb71740b5e904c55aac43} [ 10 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-27 21:25:45.203 [DEBU] {2040859923bbb71740b5e904c55aac43} [  5 ms] [default] [shop] [rows:1  ] INSERT INTO `admin_info`(`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`) VALUES('赵帅起','8081b0ed40614ee4fca17b62806b8fb2','666','2024-02-27 21:25:45','2024-02-27 21:25:45','9szpBVFo1s',1) 
+2024-02-27 21:28:10.149 [DEBU] {0422f65945bbb71742b5e904470e39bb} [  2 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-27 21:28:10.152 [DEBU] {0422f65945bbb71742b5e904470e39bb} [  3 ms] [default] [shop] [rows:23 ] [txid:1] SHOW TABLES
+2024-02-27 21:28:10.154 [DEBU] {0422f65945bbb71742b5e904470e39bb} [  2 ms] [default] [shop] [rows:1  ] [txid:1] UPDATE `admin_info` SET `name`='魏超凡',`password`='ac844c0c821fa4f850064f7505d0cdd5',`role_ids`='888',`updated_at`='2024-02-27 21:28:10',`user_salt`='fjk7xeISh7',`is_admin`=1 WHERE `id`=15
+2024-02-27 21:28:10.156 [DEBU] {0422f65945bbb71742b5e904470e39bb} [  2 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT

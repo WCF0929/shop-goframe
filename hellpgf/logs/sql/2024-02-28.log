@@ -1,0 +1,54 @@
+2024-02-28 17:16:59.240 [DEBU] {84c5b4f224fcb71787638e0ff0d9ffde} [  8 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:16:59.243 [DEBU] {84c5b4f224fcb71787638e0ff0d9ffde} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:16:59.247 [DEBU] {84c5b4f224fcb71787638e0ff0d9ffde} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:23:14.124 [DEBU] {7c57ad3b7cfcb717520c7b11038a3755} [  5 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:23:14.127 [DEBU] {7c57ad3b7cfcb717520c7b11038a3755} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:23:14.128 [DEBU] {7c57ad3b7cfcb717520c7b11038a3755} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:23:36.627 [DEBU] {d49f1a7981fcb7170a94f771dc05a3ec} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:23:36.630 [DEBU] {d49f1a7981fcb7170a94f771dc05a3ec} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:23:36.631 [DEBU] {d49f1a7981fcb7170a94f771dc05a3ec} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:26:36.576 [DEBU] {48cfe95eabfcb717ec22723f9efa44e2} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:26:36.578 [DEBU] {48cfe95eabfcb717ec22723f9efa44e2} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:26:36.578 [DEBU] {48cfe95eabfcb717ec22723f9efa44e2} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:27:24.690 [DEBU] {f057cf92b6fcb717ed22723f88d84c35} [  2 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡你' LIMIT 1
+2024-02-28 17:28:27.543 [DEBU] {e4333035c5fcb717ee22723f2630ba11} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:30:45.542 [DEBU] {d8977356e5fcb717382c7449a1b24464} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:30:45.544 [DEBU] {d8977356e5fcb717382c7449a1b24464} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:30:45.545 [DEBU] {d8977356e5fcb717382c7449a1b24464} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:53:12.793 [DEBU] {cc6fb9041ffeb7170381f429d8e7e148} [  4 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:53:12.795 [DEBU] {cc6fb9041ffeb7170381f429d8e7e148} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:53:12.797 [DEBU] {cc6fb9041ffeb7170381f429d8e7e148} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 17:53:39.833 [DEBU] {6054855025feb7171f9d3c2531448e41} [  4 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 17:53:39.836 [DEBU] {6054855025feb7171f9d3c2531448e41} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 17:53:39.837 [DEBU] {6054855025feb7171f9d3c2531448e41} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 18:02:00.313 [DEBU] {50d07cd799feb717d428c9603c903af5} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 18:02:00.315 [DEBU] {50d07cd799feb717d428c9603c903af5} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 18:02:00.315 [DEBU] {50d07cd799feb717d428c9603c903af5} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 18:04:23.136 [DEBU] {c07a5518bbfeb717390d911c7f008689} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 18:04:23.137 [DEBU] {c07a5518bbfeb717390d911c7f008689} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 18:04:23.138 [DEBU] {c07a5518bbfeb717390d911c7f008689} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 18:07:25.497 [DEBU] {f085f78de5feb717b1406403e17171be} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 18:07:25.499 [DEBU] {f085f78de5feb717b1406403e17171be} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 18:07:25.499 [DEBU] {f085f78de5feb717b1406403e17171be} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 18:08:51.126 [DEBU] {ccd3d37df9feb717355c873a1fb7ab8c} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 18:08:51.129 [DEBU] {ccd3d37df9feb717355c873a1fb7ab8c} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 18:08:51.130 [DEBU] {ccd3d37df9feb717355c873a1fb7ab8c} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:11:02.792 [DEBU] {e0a10be8300cb81760b97078d16ec4ca} [ 12 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:11:02.795 [DEBU] {e0a10be8300cb81760b97078d16ec4ca} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:11:02.796 [DEBU] {e0a10be8300cb81760b97078d16ec4ca} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:11:56.618 [DEBU] {20a5e2703d0cb81761b9707819524aeb} [  4 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:12:10.893 [DEBU] {a0d9cdc3400cb81786e94204df066030} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:12:10.895 [DEBU] {a0d9cdc3400cb81786e94204df066030} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:12:10.896 [DEBU] {a0d9cdc3400cb81786e94204df066030} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:12:43.378 [DEBU] {78960554480cb81711d5d01a6cef8b18} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:12:43.380 [DEBU] {78960554480cb81711d5d01a6cef8b18} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:12:43.381 [DEBU] {78960554480cb81711d5d01a6cef8b18} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:13:33.625 [DEBU] {5858ff06540cb8178700f92816d2a51b} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:13:33.627 [DEBU] {5858ff06540cb8178700f92816d2a51b} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:13:33.628 [DEBU] {5858ff06540cb8178700f92816d2a51b} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:14:38.403 [DEBU] {9c87211c630cb81778133029949fb65d} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:14:38.405 [DEBU] {9c87211c630cb81778133029949fb65d} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:14:38.406 [DEBU] {9c87211c630cb81778133029949fb65d} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-02-28 22:48:09.210 [DEBU] {102c5b49370eb81710b8d341a05af71c} [  4 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-02-28 22:48:09.213 [DEBU] {102c5b49370eb81710b8d341a05af71c} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-02-28 22:48:09.214 [DEBU] {102c5b49370eb81710b8d341a05af71c} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1

@@ -1,0 +1,50 @@
+2024-02-26 16:50:42.791 [DEBU] {746fc1c48c5db71746c7da6508ef634b} [  2 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-26 16:50:42.794 [DEBU] {746fc1c48c5db71746c7da6508ef634b} [  2 ms] [default] [shop] [rows:7  ] [txid:1] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-26 16:50:42.797 [DEBU] {746fc1c48c5db71746c7da6508ef634b} [  3 ms] [default] [shop] [rows:0  ] [txid:1] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 16:50:42' WHERE (`id`=0) AND `deleted_at` IS NULL
+2024-02-26 16:50:42.798 [DEBU] {746fc1c48c5db71746c7da6508ef634b} [  1 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-26 16:51:33.361 [DEBU] {a48d058b985db71747c7da658ce08a86} [  2 ms] [default] [shop] [rows:0  ] [txid:2] BEGIN
+2024-02-26 16:51:33.361 [DEBU] {a48d058b985db71747c7da658ce08a86} [  0 ms] [default] [shop] [rows:0  ] [txid:2] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 16:51:33' WHERE (`id`=0) AND `deleted_at` IS NULL
+2024-02-26 16:51:33.361 [DEBU] {a48d058b985db71747c7da658ce08a86} [  0 ms] [default] [shop] [rows:0  ] [txid:2] COMMIT
+2024-02-26 16:52:40.280 [DEBU] {78f2b91fa85db71748c7da65164d4da3} [  2 ms] [default] [shop] [rows:0  ] [txid:3] BEGIN
+2024-02-26 16:52:40.281 [DEBU] {78f2b91fa85db71748c7da65164d4da3} [  0 ms] [default] [shop] [rows:0  ] [txid:3] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 16:52:40' WHERE (`id`=0) AND `deleted_at` IS NULL
+2024-02-26 16:52:40.282 [DEBU] {78f2b91fa85db71748c7da65164d4da3} [  0 ms] [default] [shop] [rows:0  ] [txid:3] COMMIT
+2024-02-26 16:58:41.628 [DEBU] {0002c041fc5db71749c7da658bb39620} [  1 ms] [default] [shop] [rows:0  ] [txid:4] BEGIN
+2024-02-26 16:58:41.629 [DEBU] {0002c041fc5db71749c7da658bb39620} [  0 ms] [default] [shop] [rows:0  ] [txid:4] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 16:58:41' WHERE (`id`=0) AND `deleted_at` IS NULL
+2024-02-26 16:58:41.629 [DEBU] {0002c041fc5db71749c7da658bb39620} [  0 ms] [default] [shop] [rows:0  ] [txid:4] COMMIT
+2024-02-26 16:58:52.106 [DEBU] {c42254b2fe5db7174ac7da65d424480b} [  0 ms] [default] [shop] [rows:0  ] [txid:5] BEGIN
+2024-02-26 16:58:52.107 [DEBU] {c42254b2fe5db7174ac7da65d424480b} [  1 ms] [default] [shop] [rows:0  ] [txid:5] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 16:58:52' WHERE (`id`=0) AND `deleted_at` IS NULL
+2024-02-26 16:58:52.107 [DEBU] {c42254b2fe5db7174ac7da65d424480b} [  0 ms] [default] [shop] [rows:0  ] [txid:5] COMMIT
+2024-02-26 17:08:13.287 [DEBU] {cc7f3b5b815eb7176dd8cb5c3469b97b} [  1 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-26 17:08:13.290 [DEBU] {cc7f3b5b815eb7176dd8cb5c3469b97b} [  2 ms] [default] [shop] [rows:7  ] [txid:1] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-26 17:08:13.291 [DEBU] {cc7f3b5b815eb7176dd8cb5c3469b97b} [  1 ms] [default] [shop] [rows:1  ] [txid:1] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 17:08:13' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 17:08:13.293 [DEBU] {cc7f3b5b815eb7176dd8cb5c3469b97b} [  2 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-26 17:08:56.792 [DEBU] {d8e8687c8b5eb7176ed8cb5c206a65f6} [  1 ms] [default] [shop] [rows:0  ] [txid:2] BEGIN
+2024-02-26 17:08:56.793 [DEBU] {d8e8687c8b5eb7176ed8cb5c206a65f6} [  1 ms] [default] [shop] [rows:0  ] [txid:2] UPDATE `rotation_info` SET `deleted_at`='2024-02-26 17:08:56' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 17:08:56.794 [DEBU] {d8e8687c8b5eb7176ed8cb5c206a65f6} [  1 ms] [default] [shop] [rows:0  ] [txid:2] COMMIT
+2024-02-26 20:16:24.884 [DEBU] {18b0ae62c668b71775f00b0cd6c597bc} [  4 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-26 20:16:24.890 [DEBU] {18b0ae62c668b71775f00b0cd6c597bc} [  5 ms] [default] [shop] [rows:23 ] [txid:1] SHOW TABLES
+2024-02-26 20:16:24.892 [DEBU] {18b0ae62c668b71775f00b0cd6c597bc} [  2 ms] [default] [shop] [rows:7  ] [txid:1] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-26 20:16:24.893 [DEBU] {18b0ae62c668b71775f00b0cd6c597bc} [  1 ms] [default] [shop] [rows:0  ] [txid:1] UPDATE `rotation_info` SET `pic_url`='2',`link`='2',`sort`=0,`updated_at`='2024-02-26 20:16:24' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:16:24.894 [DEBU] {18b0ae62c668b71775f00b0cd6c597bc} [  0 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-26 20:17:21.200 [DEBU] {5866a27fd368b71776f00b0c43b5ad29} [  1 ms] [default] [shop] [rows:0  ] [txid:2] BEGIN
+2024-02-26 20:17:21.201 [DEBU] {5866a27fd368b71776f00b0c43b5ad29} [  1 ms] [default] [shop] [rows:0  ] [txid:2] UPDATE `rotation_info` SET `pic_url`='2',`link`='2',`sort`=0,`updated_at`='2024-02-26 20:17:21' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:17:21.201 [DEBU] {5866a27fd368b71776f00b0c43b5ad29} [  0 ms] [default] [shop] [rows:0  ] [txid:2] COMMIT
+2024-02-26 20:19:19.257 [DEBU] {e4ed41fcee68b717b8f8e87f5212f213} [  2 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-26 20:19:19.259 [DEBU] {e4ed41fcee68b717b8f8e87f5212f213} [  2 ms] [default] [shop] [rows:23 ] [txid:1] SHOW TABLES
+2024-02-26 20:19:19.260 [DEBU] {e4ed41fcee68b717b8f8e87f5212f213} [  1 ms] [default] [shop] [rows:7  ] [txid:1] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-26 20:19:19.261 [DEBU] {e4ed41fcee68b717b8f8e87f5212f213} [  1 ms] [default] [shop] [rows:0  ] [txid:1] UPDATE `rotation_info` SET `pic_url`='2',`link`='2',`sort`=0,`updated_at`='2024-02-26 20:19:19' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:19:19.261 [DEBU] {e4ed41fcee68b717b8f8e87f5212f213} [  0 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-26 20:19:32.358 [DEBU] {f4795409f268b717b9f8e87f3fe20db0} [  0 ms] [default] [shop] [rows:0  ] [txid:2] BEGIN
+2024-02-26 20:19:32.359 [DEBU] {f4795409f268b717b9f8e87f3fe20db0} [  0 ms] [default] [shop] [rows:0  ] [txid:2] UPDATE `rotation_info` SET `pic_url`='2',`link`='2',`sort`=0,`updated_at`='2024-02-26 20:19:32' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:19:32.360 [DEBU] {f4795409f268b717b9f8e87f3fe20db0} [  0 ms] [default] [shop] [rows:0  ] [txid:2] COMMIT
+2024-02-26 20:24:16.946 [DEBU] {9c8f024c3469b717baf8e87f140e9986} [  1 ms] [default] [shop] [rows:0  ] [txid:3] BEGIN
+2024-02-26 20:24:16.948 [DEBU] {9c8f024c3469b717baf8e87f140e9986} [  1 ms] [default] [shop] [rows:0  ] [txid:3] UPDATE `rotation_info` SET `pic_url`='http://images.zsxq.com/',`link`='http://images.zsxq.com/st',`sort`=0,`updated_at`='2024-02-26 20:24:16' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:24:16.948 [DEBU] {9c8f024c3469b717baf8e87f140e9986} [  0 ms] [default] [shop] [rows:0  ] [txid:3] COMMIT
+2024-02-26 20:27:58.852 [DEBU] {849f90f66769b71782d2cd25acf8ed9b} [  1 ms] [default] [shop] [rows:0  ] [txid:1] BEGIN
+2024-02-26 20:27:58.855 [DEBU] {849f90f66769b71782d2cd25acf8ed9b} [  2 ms] [default] [shop] [rows:23 ] [txid:1] SHOW TABLES
+2024-02-26 20:27:58.856 [DEBU] {849f90f66769b71782d2cd25acf8ed9b} [  1 ms] [default] [shop] [rows:7  ] [txid:1] SHOW FULL COLUMNS FROM `rotation_info`
+2024-02-26 20:27:58.858 [DEBU] {849f90f66769b71782d2cd25acf8ed9b} [  1 ms] [default] [shop] [rows:0  ] [txid:1] UPDATE `rotation_info` SET `pic_url`='http://images.zsxq.com/',`link`='http://images.zsxq.com/st',`sort`=0,`updated_at`='2024-02-26 20:27:58' WHERE (`id`=2) AND `deleted_at` IS NULL
+2024-02-26 20:27:58.858 [DEBU] {849f90f66769b71782d2cd25acf8ed9b} [  0 ms] [default] [shop] [rows:0  ] [txid:1] COMMIT
+2024-02-26 20:28:24.805 [DEBU] {d0069f016e69b71783d2cd25f4e84bc1} [  0 ms] [default] [shop] [rows:0  ] [txid:2] BEGIN
+2024-02-26 20:28:24.806 [DEBU] {d0069f016e69b71783d2cd25f4e84bc1} [  1 ms] [default] [shop] [rows:1  ] [txid:2] UPDATE `rotation_info` SET `pic_url`='http://images.zsxq.com/',`link`='http://images.zsxq.com/st',`sort`=0,`updated_at`='2024-02-26 20:28:24' WHERE (`id`=3) AND `deleted_at` IS NULL
+2024-02-26 20:28:24.809 [DEBU] {d0069f016e69b71783d2cd25f4e84bc1} [  3 ms] [default] [shop] [rows:0  ] [txid:2] COMMIT

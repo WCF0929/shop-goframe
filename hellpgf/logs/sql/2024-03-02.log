@@ -1,0 +1,102 @@
+2024-03-02 09:46:28.181 [DEBU] {7cf011fe4ccfb817e47d9c6a1c8b124a} [  5 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 09:46:28.190 [DEBU] {7cf011fe4ccfb817e47d9c6a1c8b124a} [  8 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 09:46:28.201 [DEBU] {7cf011fe4ccfb817e47d9c6a1c8b124a} [ 10 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:00:12.588 [DEBU] {cc6fdaf00cd0b817a960451e5626e7c8} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:00:12.591 [DEBU] {286e20f10cd0b817aa60451ec03184a8} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:00:12.592 [DEBU] {08a937f10cd0b817ab60451e86645f66} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:01:29.670 [DEBU] {90ac4de31ed0b817ab92b539744d195c} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:01:29.672 [DEBU] {404d7fe31ed0b817ac92b539ab4b09ff} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:01:29.673 [DEBU] {e4d697e31ed0b817ad92b539fb70829b} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:02:34.910 [DEBU] {e0e9ee132ed0b817cca9e70dd0595cbc} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:02:34.913 [DEBU] {04d71e142ed0b817cda9e70d6d1ee4ec} [  2 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:02:34.914 [DEBU] {c8ff36142ed0b817cea9e70dfdc61716} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:32:46.877 [DEBU] {4cae85f5d3d1b817b1ba033bc540469b} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:32:46.878 [DEBU] {10c1c2f5d3d1b817b2ba033b86e47970} [  0 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:32:46.880 [DEBU] {f0e2d9f5d3d1b817b3ba033b12af600d} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:32:46.882 [DEBU] {e4ffe1f5d3d1b817b4ba033b4025e3f1} [  2 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `id`='' LIMIT 1
+2024-03-02 10:37:05.143 [DEBU] {64df6a1710d2b81770a2e95a5b83892b} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:37:05.146 [DEBU] {b838a91710d2b81771a2e95a26bc2ee6} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:37:05.147 [DEBU] {a8e5c01710d2b81772a2e95a0aaa708d} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:37:05.148 [DEBU] {501bd91710d2b81773a2e95a944bc9bc} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `id`='' LIMIT 1
+2024-03-02 10:37:18.188 [DEBU] {e44b172113d2b81775a2e95a7a576105} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:37:18.189 [DEBU] {e00d272113d2b81776a2e95a975f9a8f} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `id`='' LIMIT 1
+2024-03-02 10:38:09.039 [DEBU] {8c6bfef71ed2b81778a2e95a255ff97e} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:38:09.040 [DEBU] {6ca719f81ed2b81779a2e95ade1e945a} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `id`='' LIMIT 1
+2024-03-02 10:38:14.640 [DEBU] {9cf9bb4520d2b817c1cdbc2856b1c275} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 10:38:14.642 [DEBU] {1408f94520d2b817c2cdbc2824549d50} [  1 ms] [default] [shop] [rows:8  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 10:38:14.643 [DEBU] {f062084620d2b817c3cdbc285087b229} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `name`='魏超凡' LIMIT 1
+2024-03-02 10:38:14.644 [DEBU] {308c174620d2b817c4cdbc28d0d96ca1} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin` FROM `admin_info` WHERE `id`='15' LIMIT 1
+2024-03-02 10:38:14.646 [DEBU] {18cc264620d2b817c5cdbc2811fdb2fb} [  2 ms] [default] [shop] [rows:5  ] SHOW FULL COLUMNS FROM `role_permission_info`
+2024-03-02 10:38:14.656 [DEBU] {78dd464620d2b817c6cdbc28dca65174} [ 10 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 10:38:14.658 [DEBU] {50b4dd4620d2b817c7cdbc2855b79fff} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `permission_info`
+2024-03-02 10:38:14.659 [DEBU] {24f9fb4620d2b817c8cdbc2835b2cbd5} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 11:22:58.968 [DEBU] {30122f4491d4b81704c0684f8b3527ff} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 11:22:58.971 [DEBU] {74f7644491d4b81705c0684f3e29b815} [  2 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 11:22:58.972 [DEBU] {38f0844491d4b81706c0684f401fc967} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:22:58.973 [DEBU] {7cbb9d4491d4b81707c0684fc5506ece} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:22:58.975 [DEBU] {bcf5a54491d4b81708c0684f157089db} [  1 ms] [default] [shop] [rows:5  ] SHOW FULL COLUMNS FROM `role_permission_info`
+2024-03-02 11:22:58.975 [DEBU] {6c17b64491d4b81709c0684f612c76ae} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 11:22:58.977 [DEBU] {2cfabd4491d4b8170ac0684f6a092c7d} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `permission_info`
+2024-03-02 11:22:58.977 [DEBU] {f0b8d64491d4b8170bc0684f46869ef3} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 11:25:13.003 [DEBU] {f43c4679b0d4b8175c0a4e76b47503ec} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 11:25:13.005 [DEBU] {64027579b0d4b8175d0a4e76bc61d7d6} [  1 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 11:25:13.007 [DEBU] {00a89c79b0d4b8175e0a4e7655936062} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:25:13.008 [DEBU] {8c6db479b0d4b8175f0a4e7614a229f9} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:25:13.010 [DEBU] {2448c479b0d4b817600a4e76606e6c5d} [  1 ms] [default] [shop] [rows:5  ] SHOW FULL COLUMNS FROM `role_permission_info`
+2024-03-02 11:25:13.011 [DEBU] {64e8d479b0d4b817610a4e7684074287} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 11:25:13.012 [DEBU] {d0ede579b0d4b817620a4e76ddd4f6dc} [  1 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `permission_info`
+2024-03-02 11:25:13.013 [DEBU] {e86cfe79b0d4b817630a4e76ea8fc447} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 11:26:56.938 [DEBU] {74244dacc8d4b817660a4e76401b974d} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:26:56.939 [DEBU] {44b271acc8d4b817670a4e76298aa461} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 11:26:56.940 [DEBU] {189c81acc8d4b817680a4e765db95dd2} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 11:26:56.941 [DEBU] {38fb93acc8d4b817690a4e765e604025} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 14:02:15.481 [DEBU] {fc154f4f42ddb8170acd2629605b04d4} [ 26 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 14:02:15.487 [DEBU] {dc06fa5042ddb8170bcd26296097d373} [  4 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 14:02:15.499 [DEBU] {784a425142ddb8170ccd2629d45ac718} [ 12 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:04:04.524 [DEBU] {74c44ab45bddb8170ecd2629ca2164ae} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:04:20.478 [DEBU] {e8c9396b5fddb81710cd26298f727874} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:05:55.552 [DEBU] {cc49f78d75ddb817229cc000ba2f819c} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 14:05:55.554 [DEBU] {f0ee328e75ddb817239cc000ebda90ad} [  1 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 14:05:55.555 [DEBU] {5c7f4a8e75ddb817249cc00027990dc5} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:08:09.616 [DEBU] {2088cdc494ddb817b6a8ad26214a55b0} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 14:08:09.617 [DEBU] {3c48fbc494ddb817b7a8ad26e286fc58} [  1 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 14:08:09.618 [DEBU] {c8ca19c594ddb817b8a8ad2639586db6} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:09:14.066 [DEBU] {aca158c6a3ddb817397d747f41e82919} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 14:09:14.068 [DEBU] {04b088c6a3ddb8173a7d747fc5e96ef8} [  1 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 14:09:14.068 [DEBU] {440599c6a3ddb8173b7d747f5aeecc39} [  0 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:09:14.072 [DEBU] {34eac8c6a3ddb8173c7d747fe126e6d1} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 14:09:14.074 [DEBU] {fc07d9c6a3ddb8173d7d747f27e539cc} [  2 ms] [default] [shop] [rows:5  ] SHOW FULL COLUMNS FROM `role_permission_info`
+2024-03-02 14:09:14.084 [DEBU] {0c0701c7a3ddb8173e7d747f302d7846} [  9 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 14:09:14.086 [DEBU] {0c9590c7a3ddb8173f7d747ff9e12bf3} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `permission_info`
+2024-03-02 14:09:14.087 [DEBU] {9030b2c7a3ddb817407d747f6d94ef9e} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 15:29:59.443 [DEBU] {fc6e0ced0be2b817a1e1790c2807c4c7} [  4 ms] [default] [shop] [rows:15 ] SHOW FULL COLUMNS FROM `order_info`
+2024-03-02 15:29:59.457 [DEBU] {fc6e0ced0be2b817a1e1790c2807c4c7} [ 12 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `order_info` WHERE (`created_at` BETWEEN '2024-03-02 00:00:00' AND '2024-03-02 23:59:59') AND (id)
+2024-03-02 15:33:04.545 [DEBU] {18100b0637e2b8179cc47e0dd09c066e} [  2 ms] [default] [shop] [rows:15 ] SHOW FULL COLUMNS FROM `order_info`
+2024-03-02 15:33:04.547 [DEBU] {18100b0637e2b8179cc47e0dd09c066e} [  0 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `order_info` WHERE (`created_at` BETWEEN '2024-03-02 00:00:00' AND '2024-03-02 23:59:59') AND (id)
+2024-03-02 15:34:04.059 [DEBU] {405d61e144e2b817f668123485c55db3} [  3 ms] [default] [shop] [rows:15 ] SHOW FULL COLUMNS FROM `order_info`
+2024-03-02 15:34:04.061 [DEBU] {405d61e144e2b817f668123485c55db3} [  1 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `order_info` WHERE (`created_at` BETWEEN '2024-03-02 00:00:00' AND '2024-03-02 23:59:59') AND (id)
+2024-03-02 15:36:18.407 [DEBU] {cc28482964e2b817f7681234edc05924} [  2 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `order_info` WHERE (`created_at` BETWEEN '2024-03-02 00:00:00' AND '2024-03-02 23:59:59') AND (id)
+2024-03-02 15:37:07.946 [DEBU] {340209b26fe2b817f868123478d5686e} [  1 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `order_info` WHERE (`created_at` BETWEEN '2024-03-02 00:00:00' AND '2024-03-02 23:59:59') AND (id)
+2024-03-02 17:47:38.488 [DEBU] {6494b8e28ee9b817e07a9d59a8ed78c0} [  3 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 17:47:38.493 [DEBU] {546808e38ee9b817e17a9d59772351ea} [  3 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 17:47:38.501 [DEBU] {cc9030e38ee9b817e27a9d5920c7da58} [  8 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:49:37.848 [DEBU] {c0fa37adaae9b817e67a9d592c0b3223} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:50:53.778 [DEBU] {80a5085bbce9b817e97a9d59d6fb5a4c} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:52:35.800 [DEBU] {1c47fc1bd4e9b817ee7a9d597e9e9ffa} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:53:17.172 [DEBU] {74bbedbddde9b8177f12db6459fb8ca2} [  2 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-02 17:53:17.175 [DEBU] {b0f724bedde9b8178012db640e5ca409} [  1 ms] [default] [shop] [rows:9  ] SHOW FULL COLUMNS FROM `admin_info`
+2024-03-02 17:53:17.176 [DEBU] {f4c83cbedde9b8178112db642c6dd4f0} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:54:16.683 [DEBU] {1cfd1599ebe9b8178312db6407e57b91} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 17:56:17.840 [DEBU] {747b8ece07eab8178512db6479f7c866} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 18:02:13.096 [DEBU] {f4df77855aeab8178712db645a07f997} [  2 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 18:02:13.099 [DEBU] {98beb8855aeab8178812db649b524354} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 18:02:13.103 [DEBU] {f869d0855aeab8178912db645bfb6f9f} [  3 ms] [default] [shop] [rows:5  ] SHOW FULL COLUMNS FROM `role_permission_info`
+2024-03-02 18:02:13.113 [DEBU] {84db0e865aeab8178a12db64a15a55c0} [  9 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 18:02:13.115 [DEBU] {c053a0865aeab8178b12db64f61bc1b0} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `permission_info`
+2024-03-02 18:02:13.116 [DEBU] {1088bc865aeab8178c12db649d369718} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 18:06:18.665 [DEBU] {ec1c91b293eab8179412db64302db608} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`name`='魏超凡') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 18:06:18.668 [DEBU] {a0fac7b293eab8179512db6474bb3882} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`password`,`role_ids`,`created_at`,`updated_at`,`user_salt`,`is_admin`,`deleted_at` FROM `admin_info` WHERE (`id`='15') AND `deleted_at` IS NULL LIMIT 1
+2024-03-02 18:06:18.669 [DEBU] {480fd9b293eab8179612db649e9aed8b} [  1 ms] [default] [shop] [rows:0  ] SELECT `id`,`role_id`,`permission_id`,`created_at`,`updated_at` FROM `role_permission_info` WHERE `role_id` IN ('888')
+2024-03-02 18:06:18.669 [DEBU] {f4bce8b293eab8179712db644df24920} [  0 ms] [default] [shop] [rows:0  ] SELECT `id`,`name`,`path`,`created_at`,`updated_at`,`deleted_at` FROM `permission_info` WHERE (0=1) AND `deleted_at` IS NULL
+2024-03-02 18:10:20.604 [DEBU] {146e1c07cceab817266bed3d6b0532f2} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `role_info`
+2024-03-02 18:10:20.614 [DEBU] {146e1c07cceab817266bed3d6b0532f2} [  9 ms] [default] [shop] [rows:1  ] INSERT INTO `role_info`(`name`,`desc`,`created_at`,`updated_at`) VALUES('','','2024-03-02 18:10:20','2024-03-02 18:10:20') 

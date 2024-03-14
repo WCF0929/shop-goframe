@@ -1,0 +1,16 @@
+2024-03-08 13:34:44.647 [DEBU] {1c51c55a3db3ba178336835afd53d224} [  7 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `collection_info`
+2024-03-08 13:34:44.651 [DEBU] {1c51c55a3db3ba178336835afd53d224} [  3 ms] [default] [shop] [rows:1  ] INSERT INTO `collection_info`(`user_id`,`object_id`,`type`,`created_at`,`updated_at`) VALUES(15,84,1,'2024-03-08 13:34:44','2024-03-08 13:34:44') 
+2024-03-08 22:00:02.350 [DEBU] {ec9e593bd0ceba1717dd4f643fa187dd} [ 63 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-08 22:00:02.354 [DEBU] {ec9e593bd0ceba1717dd4f643fa187dd} [  3 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `collection_info`
+2024-03-08 22:00:02.358 [DEBU] {ec9e593bd0ceba1717dd4f643fa187dd} [  3 ms] [default] [shop] [rows:3  ] SELECT `id`,`user_id`,`object_id`,`type`,`created_at`,`updated_at` FROM `collection_info` LIMIT 0,10
+2024-03-08 22:00:02.364 [DEBU] {ec9e593bd0ceba1717dd4f643fa187dd} [  6 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `collection_info`
+2024-03-08 22:00:02.366 [DEBU] {ec9e593bd0ceba1717dd4f643fa187dd} [  1 ms] [default] [shop] [rows:3  ] SELECT `id`,`user_id`,`object_id`,`type`,`created_at`,`updated_at` FROM `collection_info` LIMIT 0,10
+2024-03-08 22:04:34.132 [DEBU] {f45501860fcfba174d28a827554eb511} [  9 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-08 22:04:34.135 [DEBU] {f45501860fcfba174d28a827554eb511} [  2 ms] [default] [shop] [rows:6  ] SHOW FULL COLUMNS FROM `collection_info`
+2024-03-08 22:04:34.136 [DEBU] {f45501860fcfba174d28a827554eb511} [  0 ms] [default] [shop] [rows:3  ] SELECT `id`,`user_id`,`object_id`,`type`,`created_at`,`updated_at` FROM `collection_info` LIMIT 0,10
+2024-03-08 22:04:34.137 [DEBU] {f45501860fcfba174d28a827554eb511} [  0 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `collection_info`
+2024-03-08 22:04:34.138 [DEBU] {f45501860fcfba174d28a827554eb511} [  0 ms] [default] [shop] [rows:3  ] SELECT `id`,`user_id`,`object_id`,`type`,`created_at`,`updated_at` FROM `collection_info` LIMIT 0,10
+2024-03-08 22:04:34.140 [DEBU] {f45501860fcfba174d28a827554eb511} [  1 ms] [default] [shop] [rows:11 ] SHOW FULL COLUMNS FROM `article_info`
+2024-03-08 22:04:34.148 [DEBU] {f45501860fcfba174d28a827554eb511} [  7 ms] [default] [shop] [rows:1  ] SELECT `id`,`title`,`desc`,`pic_url` FROM `article_info` WHERE (`id` IN(1,4,84)) AND `deleted_at` IS NULL
+2024-03-08 22:04:34.150 [DEBU] {f45501860fcfba174d28a827554eb511} [  2 ms] [default] [shop] [rows:15 ] SHOW FULL COLUMNS FROM `goods_info`
+2024-03-08 22:04:34.151 [DEBU] {f45501860fcfba174d28a827554eb511} [  1 ms] [default] [shop] [rows:1  ] SELECT `id`,`name`,`pic_url`,`price` FROM `goods_info` WHERE (`id` IN(1,4,84)) AND `deleted_at` IS NULL

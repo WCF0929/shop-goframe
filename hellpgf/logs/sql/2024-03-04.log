@@ -1,0 +1,3 @@
+2024-03-04 20:47:00.075 [DEBU] {6097e4a48190b917da1d4d6fbebb9afe} [ 12 ms] [default] [shop] [rows:7  ] SHOW FULL COLUMNS FROM `file_info`
+2024-03-04 20:47:00.078 [DEBU] {6097e4a48190b917da1d4d6fbebb9afe} [  2 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `file_info` WHERE (`user_id`=15) AND (`created_at` >= '2024-03-04 20:48:00')
+2024-03-04 20:47:00.083 [DEBU] {6097e4a48190b917da1d4d6fbebb9afe} [  4 ms] [default] [shop] [rows:1  ] INSERT INTO `file_info`(`name`,`src`,`url`,`created_at`,`updated_at`) VALUES('czkz69dgfz7wjswlzf.png','upload\20240304\czkz69dgfz7wjswlzf.png','/upload/20240304/czkz69dgfz7wjswlzf.png','2024-03-04 20:47:00','2024-03-04 20:47:00') 

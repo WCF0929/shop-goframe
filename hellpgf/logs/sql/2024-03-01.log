@@ -1,0 +1,5 @@
+2024-03-01 22:20:10.577 [DEBU] {78d92693d9a9b8173e56f80e92162c5d} [ 48 ms] [default] [shop] [rows:23 ] SHOW TABLES
+2024-03-01 22:20:10.584 [DEBU] {78d92693d9a9b8173e56f80e92162c5d} [  6 ms] [default] [shop] [rows:7  ] SHOW FULL COLUMNS FROM `rotation_info`
+2024-03-01 22:20:10.596 [DEBU] {78d92693d9a9b8173e56f80e92162c5d} [ 12 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at`,`deleted_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,10
+2024-03-01 22:20:10.598 [DEBU] {78d92693d9a9b8173e56f80e92162c5d} [  1 ms] [default] [shop] [rows:1  ] SELECT COUNT(1) FROM `rotation_info` WHERE `deleted_at` IS NULL
+2024-03-01 22:20:10.599 [DEBU] {78d92693d9a9b8173e56f80e92162c5d} [  0 ms] [default] [shop] [rows:2  ] SELECT `id`,`pic_url`,`link`,`sort`,`created_at`,`updated_at` FROM `rotation_info` WHERE `deleted_at` IS NULL ORDER BY `id` DESC LIMIT 0,10
